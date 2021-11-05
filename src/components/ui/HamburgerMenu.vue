@@ -32,7 +32,6 @@
 </template>
 
 <script lang="ts">
-import "animate.css";
 import { onMounted, ref } from "vue";
 import OutlineButton from "./OutlineButton.vue";
 
